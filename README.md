@@ -68,6 +68,17 @@ make soluzione
 
 ## Per approfondire
 
+-----
+
+## Licenza
+
+Il codice (cartelle `soluzione/`, `therac25/`, `input/` e il `Makefile`) è distribuito con licenza MIT, come indicato nel file `LICENSE`.
+
+I testi (i file README e le note in `assembly/`) sono distribuiti con licenza [Creative Commons Attribuzione 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
+
+I file della cartella `gemini/` sono stati generati da Google Gemini e sono riprodotti senza modifiche come oggetto di analisi; non sono coperti dalle licenze sopra indicate.
+
+
 - *Errori di sistema*, la newsletter dell'autore: <https://pierangeloindolfi.substack.com>
 - Nancy G. Leveson, Clark S. Turner, *An Investigation of the Therac-25 Accidents*, IEEE Computer, 1993
 - Direttiva (UE) 2024/2853 sulla responsabilità per danno da prodotti difettosi, che dal 9 dicembre 2026 include esplicitamente il software: <https://eur-lex.europa.eu/eli/dir/2024/2853/oj/ita>
