@@ -10,7 +10,7 @@ Gli agenti IA promettono che chiunque potrà costruire software descrivendolo a 
 
 A Gemini è stato chiesto di svolgere un tipico esercizio d'esame di un corso di programmazione in C: una rete di stazioni meteorologiche, la temperatura di ciascuna, il valore convenzionale -999 per le stazioni guaste, e tre funzioni per contare le temperature sopra i 30 gradi, calcolare la media e trovare il massimo.
 
-Il prompt è stato provato in tre varianti, in chat diverse, il 15 novembre 2026 (cartella `prompt/`). Le otto risposte ottenute (cartella `gemini/`) sono ordinate, commentate, compilano senza errori e rispettano le consegne. Hanno anche, tutte, gli stessi difetti. Nemmeno la formula della seconda prova dell'Esame di Stato, *"Il candidato analizzi la realtà di riferimento e, formulate le opportune ipotesi aggiuntive..."*, cambia il codice: Gemini scrive un'analisi formalmente corretta e poi produce, riga per riga, lo stesso programma di prima.
+Il prompt è stato provato in tre varianti, in chat diverse, il 15 novembre 2026 (cartella `prompt/`). Le otto risposte ottenute (cartella `gemini/`) sono ordinate, commentate, compilano senza errori e rispettano le consegne. Hanno anche, tutte, gli stessi difetti. Nemmeno la formula della seconda prova dell'Esame di Stato, *"Il candidato analizzi la realtà di riferimento e, formulate le opportune ipotesi aggiuntive..."*, cambia il codice: Gemini scrive un'analisi formalmente corretta e poi produce un programma con la stessa logica di prima, in cui cambiano solo commenti e messaggi.
 
 ## Che cosa si rompe, e chi se ne accorge
 
